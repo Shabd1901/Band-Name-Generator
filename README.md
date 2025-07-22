@@ -29,7 +29,7 @@ Your band name could be: Tokyo Muffin
 
 ## 🧠 Notes
 
-All the practice files are part of the Day 1 lesson.  
+All the practice files are part of the Day 1 lesson.
 Only `PROJECT - Band Name Generator.py` is the actual project submission.
 
 
