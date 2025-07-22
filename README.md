@@ -6,7 +6,8 @@ It takes user input (city + pet name) and generates a fun band name!
 
 ---
 
-## 📁 What's in this folder
+## 📁 What will you find in the folder?
+
 
 | File                                  | Purpose                                           |
 |---------------------------------------|---------------------------------------------------|
